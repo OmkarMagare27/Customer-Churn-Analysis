@@ -138,6 +138,6 @@ Business Impact: Helps telecom companies implement targeted retention strategies
 # 🔗 Connect With Me
 If you found this project useful, feel free to connect!
 
-📩 Email: omkarmagare@example.com
-💼 LinkedIn: linkedin.com/in/omkarmagare
-🚀 GitHub: github.com/omkarmagare
+📩 Email: omkarrajeshmagare@gmail.com
+💼 LinkedIn: linkedin.com/in/omkarrajeshmagare
+🚀 GitHub: github.com/omkarmagare27
