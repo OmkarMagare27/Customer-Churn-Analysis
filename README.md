@@ -88,7 +88,7 @@ Power BI Desktop: Download Here
 💻 Setup Instructions
 1️⃣ Clone the Repository
 
-git clone https://github.com/omkarmagare/churn-analysis.git
+git clone https://github.com/omkarmagare27/churn-analysis.git
 cd churn-analysis
 
 2️⃣ Install Required Dependencies
